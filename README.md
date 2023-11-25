@@ -1,2 +1,2 @@
 # MEGA-URETKEN AKADEMI Projects
- Üretken Akademi ve Meram Gelişim Akademi eğitimleri ile yapmış olduğum projelerdir.
+ These are the projects I have done with the trainings of the 'Üretken Akademi' and 'Meram Gelişim Akademisi'.
