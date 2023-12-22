@@ -1,0 +1,52 @@
+:root {
+  color-scheme: black;
+  color: white;
+  background-color: rgb(40, 56, 110);
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+body {
+  place-items: center;
+  min-width: 400px;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+}
+
+label {
+  text-align: center;
+  width: 20%;
+  padding: 30px;
+  font-size: 20px;
+  display: block;
+}
+
+span {
+  padding-top: 25px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.temps {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+#c, #f, #k {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+  padding: 30px;
+  
+}
+
+h1 {
+  color: #5ab624;
+  font-size: 3.2em;
+  line-height: 1.1;
+}
