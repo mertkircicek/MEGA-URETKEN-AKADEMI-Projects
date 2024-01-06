@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Nike",
+        "price" :100,
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ae64253b-2b83-4d9d-ab16-d7dbb99dbb70/air-force-1-lv8-ayakkab%C4%B1s%C4%B1-vXKF0h.png"
+    },
+    
+    {
+        "id":2,
+        "name":"Adidas",
+        "price" :120,
+        "img" :"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/82004cab2f454d50944bbc55cf77218b_9366/Eastrail_2.0_Yuruyus_Ayakkabisi_Yesil_IE2591_01_standard.jpg"
+    },
+    {
+        "id":3,
+        "name":"Puma",
+        "price" :85,
+        "img" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/393176/01/sv01/fnd/TUR/w/320/h/320/fmt/png"
+    },
+    {
+        "id":4,
+        "name":"Nike",
+        "price" :100,
+        "img" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/870f4f91-91f7-4d06-b669-0dda58bef847/air-force-1-07-ayakkab%C4%B1s%C4%B1-40BJG3.png"
+    },{
+        "id":5,
+        "name":"Puma",
+        "price" :75,
+        "img" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/366811/05/sv01/fnd/TUR/w/1000/h/1000/fmt/png"
+    },
+    {
+        "id":6,
+        "name":"Adidas",
+        "price" :90,
+        "img" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/37713f5f502847ef9ee2ecdc1d11c416_9366/Y-3_GAZELLE_Gri_IG0804_01_standard.jpg"
+    }
+    ]
